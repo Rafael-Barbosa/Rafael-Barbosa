@@ -11,6 +11,7 @@
 <a href="https://discord.gg/fff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fff" height="30" width="40" /></a>
 </p> 
 
+
 <p align="center"> <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="rafael-barbosa" height="100" width="80" /></p> 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -98,4 +99,6 @@
   clear: both;
 }
       </style>
+=======
+>>>>>>> 659e6dde02cf15c38d07d6b175e6370082abbeb6
 
