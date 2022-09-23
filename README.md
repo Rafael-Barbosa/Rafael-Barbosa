@@ -5,10 +5,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/lin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lin" height="30" width="40" /></a>
-<a href="https://instagram.com/ffff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ffff" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fff" height="30" width="40" /></a>
-<a href="https://discord.gg/fff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fff" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rafael-barbosa-a04b30114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rafael.r.barbosa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ffff" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNgLZm_1LWTiFOmUQPyOlYw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fff" height="30" width="40" /></a>
+<a href="https://discord.gg/kkQvRhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fff" height="30" width="40" /></a>
 </p> 
 
 
