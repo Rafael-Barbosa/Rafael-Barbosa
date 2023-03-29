@@ -1,5 +1,13 @@
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hi" width="40" height="40"/>, I'm Rafael Barbosa</h1>
-<h3 align="center">Data Scientist and PhD in Physics</h3>
+<h3 align="center">👨‍💻 Data Scientist | 🎓 PhD in Physics | 🤖 IoT & Robotics Enthusiast</h3>
+
+## About Me
+#### I'm a Data Scientist with a strong academic background in Physics (PhD) and specialization in Electrical Engineering. Passionate about the intersection of programming and science, I've been fortunate to combine these fields throughout my career. My expertise lies in Data Science, IoT, and Robotics, utilizing languages like Python, C/C++, and tools such as SQL, NoSQL, and AWS.
+
+#### Currently, I'm a professor in the Information Systems program at UNIMATER and a postdoctoral researcher at the Laboratory of Theory, Modeling, and Simulation of Nanomaterials (LTMS). I'm also a consultant in Data Science and ETL processes, helping organizations optimize their operations and make data-driven decisions.
+
+## Current Research
+#### I'm investigating the application of Machine Learning techniques in the field of Nanotechnology, focusing on the development of innovative electronic and optoelectronic devices.
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
