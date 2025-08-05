@@ -4,6 +4,7 @@
 ## About Me
 #### I'm a Data Scientist with a strong academic background in Physics (PhD) and specialization in Electrical Engineering. Passionate about the intersection of programming and science, I've been fortunate to combine these fields throughout my career. My expertise lies in Data Science, IoT, and Robotics, utilizing languages like Python, C/C++, and tools such as SQL, NoSQL, and AWS.
 
+
 #### Currently, I'm a professor in the Information Systems program at UNIMATER and a postdoctoral researcher at the Laboratory of Theory, Modeling, and Simulation of Nanomaterials (LTMS). I'm also a consultant in Data Science and ETL processes, helping organizations optimize their operations and make data-driven decisions.
 
 ## Current Research
