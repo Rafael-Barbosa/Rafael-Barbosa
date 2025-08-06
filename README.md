@@ -8,6 +8,7 @@
 #### Currently, I'm a professor in the Information Systems program at UNIMATER and a postdoctoral researcher at the Laboratory of Theory, Modeling, and Simulation of Nanomaterials (LTMS). I'm also a consultant in Data Science and ETL processes, helping organizations optimize their operations and make data-driven decisions.
 
 ## Current Research
+<!--Research-->
 #### I'm investigating the application of Machine Learning techniques in the field of Nanotechnology, focusing on the development of innovative electronic and optoelectronic devices.
 
 <p  align="center">
